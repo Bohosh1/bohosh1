@@ -1,7 +1,8 @@
-## Hi there 👋
+<h1>Hello, I'm Bohosh! </h1>
 
-<!--
-**Bohosh1/bohosh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Cybersecurity Projects:</h2>
+
+  - [Praciting DS & Algos in Python](https://github.com/bohosh1/)
 
 Here are some ideas to get you started:
 
