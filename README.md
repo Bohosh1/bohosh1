@@ -2,5 +2,5 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/bohosh1/SIEM)
+  - [Building a SIEM Using Azure](https://github.com/bohosh1/SIEM)
 
